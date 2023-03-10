@@ -1,0 +1,2 @@
+using sanity.io - a platform for structuring content and for dynamically handeling content. for real time hosting data.
+schemas in sanity returns object and prop such as name and type are required
